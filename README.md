@@ -10,7 +10,8 @@ Luan Santana OS é um sistema operacional baseado no cantor, de gênero sertanej
  - Reinicie o seu computador e entre na **BIOS**. (Consulte o manual da sua placa mãe.)
  - Vá para a parte de sequência de boot e ordene a mídia de instalação em **primeiro lugar**.
  - Reinicie o computador e abra o instalador.
-
+ 
+luanSantanaOS agora está disponível para testes online no [DistroTest](https://distrotest.net/Luan%20Santana%20OS/1.0.0).
 ## Sistema:
 
  - Baseado no **Debian 10**.
